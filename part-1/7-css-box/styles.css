@@ -1,6 +1,22 @@
-/* Try different box model properties below */
+/* styles.css */
+
+/* 1.rule 1 */
 .pages__page {
   border: 1px solid #4491db;
   border-radius: 4px;
   background: #fff;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 5px;
+}
+
+/* 2. rule 2 */
+.country {
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
 }

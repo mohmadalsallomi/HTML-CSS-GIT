@@ -103,7 +103,8 @@ git push -u origin red_links
 
 _Hint: You only have to use this extra information the first time you push a new branch. After that, you can push to your branch with just `git push`._
 
-Using this technique, try to successfully push your `green_links` branch.
+Using this technique, try to successfully push your `green_links` bra![Screenshot of branches list in GitHub](/images/9/github-branches.png)
+nch.
 
 When you have successfully pushed both branches, you should see them in your GitHub repository. You can find them by clicking on the **Branch** button. Here's an example of what it should look like:
 

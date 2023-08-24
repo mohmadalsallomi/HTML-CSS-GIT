@@ -1,1 +1,34 @@
 /* Add your CSS code below */
+
+
+/* 1. bdif el colot l link w el bold */
+.message a {
+    color: red;
+    font-weight: bold;
+    text-decoration: none;
+  }
+  
+  /* 2. el size */
+
+  .message__time {
+    font-size: 0.9rem;
+  }
+  
+  /* 3. color*/
+
+  .message--unread {
+    border-left: 4px solid blue;
+  }
+  
+  /* 4. oopa */
+
+  .message__time--old {
+    opacity: 1.7;
+  }
+  
+  /* 5.line height */
+
+  .message p {
+    line-height: 1.7;
+  }
+  
