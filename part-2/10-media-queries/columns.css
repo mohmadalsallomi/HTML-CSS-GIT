@@ -3,20 +3,9 @@
     columns: 2;
   }
 }
-@media (min-width: 1201px) {
-  .countries {
-    columns: 3;
-  }
-}
 
 @media (min-width: 769px) {
   .countries {
     columns: 2;
-  }
-}
-
-@media (min-width: 1201px) {
-  .countries {
-    columns: 3;
   }
 }
