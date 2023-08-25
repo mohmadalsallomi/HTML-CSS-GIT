@@ -6,4 +6,23 @@
   padding: 0.5em;
 }
 
-/* Add your own CSS code below */
+.countries .countries--first {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.countries--third {
+  display: flex;
+  flex-direction: column;
+}
+.countries--second {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.countries--fourth {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
