@@ -3,3 +3,15 @@
 }
 
 /* Add your own CSS code below */
+.countries--first {
+  align-self: flex-end;
+}
+.countries--second {
+  align-self: end;
+}
+.countries--third .country:nth-child(2) {
+  align-self: flex-start;
+}
+.countries--third .country:nth-child(3) {
+  align-self: flex-end;
+}
